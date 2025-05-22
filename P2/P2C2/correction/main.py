@@ -1,3 +1,5 @@
+#* Correction de l'exercice 2 du chapitre 2
+
 # Récupérer la saisie de l'utilisateur
 nombres = input("Saisissez une liste de nombres séparés par des virgules: ")
 

@@ -1,3 +1,5 @@
+# Exercice 2 - Correction
+
 # Définition de la fonction salaire_mensuel
 def salaire_mensuel(salaire_annuel):
     return salaire_annuel / 12
